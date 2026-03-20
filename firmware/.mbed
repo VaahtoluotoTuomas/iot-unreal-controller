@@ -1,0 +1,5 @@
+ROOT=.
+DEVICE_ID[/home/studio/workspace/example_esp8266_wifi_mqtt]=AAAAIr89HqVp7GLk
+DEVICE_TYPE[/home/studio/workspace/example_esp8266_wifi_mqtt]=connected
+TARGET=NUCLEO_L432KC
+TARGET_CODE=0770

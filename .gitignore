@@ -1,0 +1,14 @@
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+**/Binaries/
+**/Build/
+*.sln
+*.suo
+
+**/BUILD/
+**/.hg/
+compile_commands.json
+
+.DS_Store
+Thumbs.db
