@@ -31,6 +31,13 @@ The project is built using an end-to-end IoT architecture divided into three mai
   <br>
   <i>Blueprint logic scaling and interpolating incoming OSC sensor data to drive real-time room rotation.</i>
 </p>
+<p align="center">
+  <img src="screenshots/shake-effect1.webp" width="48%" alt="IoT project with Unreal Engine GIF"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/shake-effect2.webp" width="48%" alt="NUCLEO-L432KC microcontroller and sensor"/> 
+  <br>
+  <i>Unreal Engine post-process effects that activate when the sensor is shaken.</i>
+</p>
 
 ## Technologies Used
 
