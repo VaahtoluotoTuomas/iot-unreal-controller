@@ -3,7 +3,7 @@
 A prototype for an interactive video game installation. This project uses a physical microcontroller and an accelerometer to control a 3D environment, lighting, and post-processing effects in Unreal Engine 5 in real-time.
 
 <p align="center">
-  <img src="screenshots/iot-unreal3.gif" width="30%" alt="IoT project with Unreal Engine GIF"/>
+  <img src="screenshots/iot-unreal.gif" width="30%" alt="IoT project with Unreal Engine GIF"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="screenshots/microcontroller-sensor.webp" width="40%" alt="NUCLEO-L432KC microcontroller and sensor"/> 
   <br>
